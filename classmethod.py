@@ -75,4 +75,3 @@ circulo2 = Circulo.criar_circulo(5)
 
 print(circulo2.raio)
    
-     
