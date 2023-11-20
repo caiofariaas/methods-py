@@ -1,7 +1,6 @@
 # Estudo staticmethod
 # staticmethod's não possuem acesso aos atributos de uma classe, ele não pode receber 'self' ou 'cls' como parametro!
 # também não são acessados a partir de instancias de classe, são acessados apenas pela classe em sí.
-import math
 
 class Calculadora:
 
